@@ -21,7 +21,7 @@ A simple lightweight privacy extension for Whatsapp Web on Google Chrome and Mic
     - In Edge: Navigate to `edge://extensions`
     - In Firefox: Navigate to `about:debugging#/runtime/this-firefox`
 3.  **Enable `Developer Mode`**
-4.  Click the **Load unpacked** button (Chrome and Edge) or *Load Temporary Add-on...* (Firefox), then select `Whatsapp_plus/src` folder
+4.  Click `Load unpacked` in (Chrome and Edge) or `Load Temporary Add-on...` in (Firefox), then select `Whatsapp_plus/src` folder
 5.  Visit or refresh [Whatsapp Web](https://web.whatsapp.com)
 
 ## Configure the Shortcuts
