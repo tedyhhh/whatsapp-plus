@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "WhatsApp+",
   "version": "0.0.1",
-  "description": "Enhance your privacy with a simple message, media, and name blur",
+  "description": "A simple lightweight privacy extension for Whatsapp Web on Google Chrome and Microsoft Edge.",
   "permissions": ["storage", "tabs"],
   "icons": {
     "512": "assets/whatsapp.png"
@@ -12,7 +12,8 @@
     "default_icon": "assets/whatsapp.png"
   },
   "background": {
-    "service_worker": "scripts/background.js"
+    "service_worker": "scripts/background.js",
+    "scripts": ["background.js"]
   },
   "commands": {
     "toggle-all-privacy": {
@@ -21,6 +22,12 @@
         "mac": "Command+Shift+Q"
       },
       "description": "Panic button to blur all"
+    }
+  },
+    "browser_specific_settings": {
+    "gecko": {
+      "id": "@whatsapp-plus",
+      "strict_min_version": "130.0.0"
     }
   },
   "content_scripts": [
