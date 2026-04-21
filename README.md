@@ -7,7 +7,8 @@ A simple lightweight privacy extension for Whatsapp Web on Google Chrome and Mic
 - Unblurs on hover
 - Customizable shortcut to blur all
 
-	<img width="311" height="297" alt="WhatsApp+" src="https://github.com/user-attachments/assets/6d3daf28-0649-4b9a-86c6-7fc59207daeb" />
+<img width="307" height="296" alt="WhatsApp+" src="https://github.com/user-attachments/assets/83153b32-68cd-43e5-9596-d0cf1f38b0c6" />
+
 
 ## Install in Locally in Browser
 1. Clone or download this repository to your local machine
@@ -47,7 +48,8 @@ whatsapp_plus
 ## Screenshots
 | Chat List View | Hover To Reveal|
 |-|-|
-| <img width="564" height="136" alt="Full Blur" src="https://github.com/user-attachments/assets/a79ada62-d1e8-4856-b1c0-b5fe9bfe8240" />|<img width="556" height="124" alt="image" src="https://github.com/user-attachments/assets/3dc32dbe-6a2a-417f-ab27-3b558e0ea0e2" />
+|<img width="553" height="125" alt="image" src="https://github.com/user-attachments/assets/7b83994e-6645-4691-a3b5-be69ccba0e91" />|<img width="558" height="122" alt="image" src="https://github.com/user-attachments/assets/449c93b8-63db-437c-bf95-02b6157790dc" />|
+
 
 
 ## Privacy
